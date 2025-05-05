@@ -1,0 +1,80 @@
+HTML - Hyper Text Markup Language
+
+Tag, Attributes, Values
+
+Tag
+<> ---> open tag
+</> ---> closing tag
+
+website into 3 parts
+1.navbar and header part
+2.body of the content
+3.footer part
+
+<!DOCTYPE html>
+<html>
+    <head>
+       logo
+       meta tags - google analytics
+    </head>
+    <body>
+
+    
+    
+    
+    
+    
+    <footer>
+       social media links
+       copyright conditions
+    </footer>
+    </body>
+
+</html>
+
+HYper Link - when I CLICK A WORD IT REDIRECTS TO ANOTHER PAGE
+
+<a href=\"" title="" target=""></a>
+1.relative path - path from online
+2.absolute path - path from page we have already
+
+text formats
+
+
+span tag-- Inline container to group the elements for styling purpose
+
+div tag-- block container to group the eements for styling purpose
+
+comment <!--  write your comment here-->
+
+List 
+1. ordered List <ol></ol>
+2. unordered List
+<ul>
+   <li></li>
+</ul>
+
+Tables
+<table>
+   <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+
+   </tr>
+</table>
+homw work 
+stu table name, age, dept, clg name,blood grp
+
+<button></button>
+
+form
+<form action="where data to be stored" method="post" ></form>
+
+homework
+create a form for job application
+stu name,degree, dept, passed out yr, cover letter --> in text area, resume upload, d.o.b, quantity of arrears,phno, mail.
