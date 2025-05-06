@@ -4,7 +4,7 @@ Tag, Attributes, Values
 
 Tag
 <> ---> open tag
-</> ---> closing tag
+</> ---> closing tag [w/o closing unpadding and with padding tags]
 
 website into 3 parts
 1.navbar and header part
